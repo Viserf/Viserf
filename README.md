@@ -1,4 +1,4 @@
-Litecoin Core integration/staging tree
+Viserf Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/viserf-project/viserf.svg?branch=master)](https://travis-ci.org/viserf-project/viserf)
